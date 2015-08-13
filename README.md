@@ -3,3 +3,6 @@
 Angular app that allows you to post to your FB wall.
 
 Demo at http://fbpost.surge.sh/
+
+#Todo
+- refactor `$facebook` promise chain
